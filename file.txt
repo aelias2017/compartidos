@@ -1,2 +1,3 @@
 repor file 1 en el master 
 este es un nuevo branch de parctica antes de cagarla con el bueno 
+se crea unna ramanueva para hacer pruevas de conflictos
